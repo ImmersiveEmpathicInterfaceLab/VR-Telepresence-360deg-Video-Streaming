@@ -24,7 +24,4 @@ The project originally compiled and ran with the old code. However, after an att
 
 ## Contributors
 * Nicholas Wile
-<!--
-* Afifa Jinan
-put your name here!
--->
+* Umme Afifa Jinan
